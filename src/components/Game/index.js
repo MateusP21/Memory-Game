@@ -6,7 +6,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import Card from '../Card';
 import Modal from '../Modal';
 import Counter from '../Counter';
-import 'react-toastify/dist/ReactToastify.css';
+
 import gameData from '../../db.json';
 import firebase from '../../utils/firebaseUtils';
 import Ranking from '../Ranking';
