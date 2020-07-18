@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 import { GlobalStyle } from './styles';
-import 'react-toastify/dist/ReactToastify.css';
+
 import Routers from './Routes';
 import { useDispatch } from 'react-redux';
 import Firebase from './utils/firebaseUtils';
